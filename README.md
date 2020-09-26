@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Shiva Chandra
-#### I am GitHub read me generator creator
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+#### I am graduate student from Lovely Professional University.
+An enthusiastic college student working towards a degree in Computer Science. Machine learning aspirant and loves to learn its implementation in various fields. Fast Learner and beliefs in implementation rather than theory. Quick learner with a positive attitude ready to make an immediate impact. 
 
-Skills: C / C++ / JAVA / PYTHON / MySQL
+Skills: C / C++ / Java / Python / MySQL
 
 - 🔭 I’m currently working on this page. 
 
