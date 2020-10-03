@@ -11,6 +11,6 @@ Skills: C / C++ / Java / Python / MySQL / Data visualization / Tableau / Scikit 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivachandrakante&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivachandrakante)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivachandrakante)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/shivachandrakante)  
